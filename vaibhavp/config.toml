@@ -1,0 +1,45 @@
+baseurl = "https://www.vaibhavp.dev/"
+languageCode = "en-US"
+title = "Vaibhav Pathak"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+theme = "hugo-sustain"
+publishDir = "../vaibhavp.github.io"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "profile.png"
+  author = "Vaibhav Pathak"
+  description = "My Personal Blog and Digital Presence"
+  company = "Infracloud.io"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "vaibhavp"
+  Email         = "vp15591@gmail.com"
+  Twitter       = "VaibhavPathak_"
+  LinkedIn      = "vaibhav-pathak-dev"
+
+## Main Menu
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects"
+#[[menu.main]]
+#  name = "resume"
+#  identifier = "resume"
+#  weight = 300
+#  url = "/resume/"
