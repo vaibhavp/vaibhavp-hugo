@@ -1,3 +1,7 @@
 [submodule "vaibhavp.github.io"]
 	path = vaibhavp.github.io
 	url = https://github.com/vaibhavp/vaibhavp.github.io.git
+[submodule "vaibhavp/themes/hugo-sustain"]
+	path = vaibhavp/themes/hugo-sustain
+	url = https://github.com/vaibhavp/hugo-sustain.git
+	branch = master
