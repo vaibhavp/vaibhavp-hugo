@@ -4,7 +4,7 @@ title = "Vaibhav Pathak"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-161648531-1"
 theme = "hugo-sustain"
 publishDir = "../vaibhavp.github.io"
 
