@@ -5,7 +5,7 @@ title = "Vaibhav Pathak"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-161648531-1"
-theme = "hugo-sustain"
+theme = ["hugo-sustain"]
 publishDir = "../vaibhavp.github.io"
 
 [permalinks]
@@ -15,7 +15,8 @@ publishDir = "../vaibhavp.github.io"
   avatar = "profile.png"
   author = "Vaibhav Pathak"
   description = "My Personal Blog and Digital Presence"
-  company = "Contorion"
+  company = "Cognologix"
+  company_url = "https://cognologix.com/"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
