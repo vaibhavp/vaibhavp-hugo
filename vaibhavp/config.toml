@@ -15,8 +15,8 @@ publishDir = "../vaibhavp.github.io"
   avatar = "profile.png"
   author = "Vaibhav Pathak"
   description = "My Personal Blog and Digital Presence"
-  company = "Cognologix"
-  company_url = "https://cognologix.com/"
+  company = "Facctum"
+  company_url = "https://facctum.com/"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
